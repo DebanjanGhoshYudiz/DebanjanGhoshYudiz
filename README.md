@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DebanjanGhoshYudiz
 - 👀 I’m interested in Game Development!
-- 🌱 I’m currently learning Unity Engine.
+- 🌱 I’m currently working with Unity Engine.
 - 💞️ I’m looking to collaborate on Game Dev Projects
 
 <!---
